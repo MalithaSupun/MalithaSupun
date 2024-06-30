@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img align="center" height="512px" src="https://camo.githubusercontent.com/1982536bad3e47f7e8bc0cac1e9fa00524cf104bcdc4ba8e986cc11255e4ded1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966">
+  <img align="center" height="512px" src="https://camo.githubusercontent.com/0067928aa5157d694f22a1f350aa81fa00c44501d76e5780becee73927fffa52/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=MalithaSupun&style=flat-square&color=blue" alt="Profile Views">
+ 
 </h2>
 
 <h1 align="center">
@@ -10,7 +10,8 @@ Hi 👋, I'm Malitha Supun
 <h2 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+student+in+SLIIT.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-
+  <br>
+ <img src="https://komarev.com/ghpvc/?username=MalithaSupun&style=flat-square&color=blue" alt="Profile Views">
 # 💫 About Me:
 🔭 I’m currently studying at SLIIT as an undergraduate.<br>👯 I’m looking to collaborate on web development projects and open-source contributions.<br>🌱 I’m currently learning web development and application development.
 
