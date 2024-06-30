@@ -1,61 +1,35 @@
+<h2 align="center">
+  <img align="center" height="512px" src="https://camo.githubusercontent.com/1982536bad3e47f7e8bc0cac1e9fa00524cf104bcdc4ba8e986cc11255e4ded1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MalithaSupun&style=flat-square&color=blue" alt="Profile Views">
+</h2>
+
 <h1 align="center">
-Malitha Supun
+Hi 👋, I'm Malitha Supun
 
+<h2 align="center">
   
-  <h2 align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Malitha_Supun.;I'm+a+student+in+SliitA.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+student+in+SLIIT.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
+# 💫 About Me:
+🔭 I’m currently studying at SLIIT as an undergraduate.<br>👯 I’m looking to collaborate on web development projects and open-source contributions.<br>🌱 I’m currently learning web development and application development.
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/p/Malitha-Supun-100008346046354/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/supun_malitha/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/malitha-supun-a6145314a/) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalithaSupun&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalithaSupun&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalithaSupun&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## My Tech Stack and Tools
-
-### Programming Languages
-
-<p>
-  
 
 
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png"> </a>
-<img width="48px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg"> </a>
-<img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP">
-<img width="48px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL">
-![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
-![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
-![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
-<img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
-
-
-
-### Frameworks and Libraries
-
-<p>
-
-![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
-<img width="48px" src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS">
-
-
-### Software
-
-<p>
-	
-![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
-<img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma">
-![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
-![icons8-intellij-idea](https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg)
-![icons8-webstorm](https://user-images.githubusercontent.com/76852813/172722695-28a7df43-15fc-4816-b879-630bd4007526.svg)
-![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
-![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
-<img width="89px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" alt="Firebase">
-<img width="48px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=464" alt="Power BI">
-
-
-
-
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
